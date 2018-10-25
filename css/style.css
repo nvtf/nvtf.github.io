@@ -1,0 +1,125 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+body {
+	background-image: url(../img/Z6O3kcC.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat; 
+	margin: 0; 
+}
+#content, #footer {
+	width: 1000px;
+	margin: auto;
+	background: #960000;
+	padding: 15px;
+	font-size: 1em; 
+}
+button.submit {
+	position: relative;
+	background-color: #461cff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#461cff), to(#3003fc));
+	border: 1px solid #2800d9;
+	border-bottom: 1px solid #6948fa;
+	border-bottom: 1px solid #6948fa;
+	border-radius: 3px;
+	box-shadow: inset 0 1px 0 0 #9fd574;
+	color: white;
+	font-weight: bold;
+	padding: 6px 20px;
+	text-align: center;
+	text-shadow: 0 -1px 0 #6948fa;
+	left: 50px;
+}
+button.submit:hover {
+	opacity: .84;
+	cursor: pointer;
+}
+button.submit:active {
+	border: 1px solid #6948fa;
+	box-shadow: 0 0 10px 5px #6948fa inset;
+}
+#logo {
+	position: relative;
+	width: 90px;
+	height: 90px;
+	margin-left: 430px;
+	bottom: 25px;
+}
+.ssil {
+	color: white;
+}
+h3, p {
+	color: white;
+}
+.custom {
+	position: relative;
+	width: 20%;
+	height: 20%;
+}
+#nov1, #nov2, #nov3 {
+	background: #630000;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+#text {
+	position: relative;
+	/* left: 230px; */
+	bottom: 200px;
+	/* background-color: #990000; */
+	padding-left: 225px;
+}
+.otstup {
+	background: #000;
+}
+#footer {
+	background: #521e1e;
+}
+#igr {
+	position: relative;
+	left: 170px;
+	bottom: 70px;
+}
+#usl {
+	position: relative;
+	left: 340px;
+	top: -140px;
+}
+#Copyright {
+	position: relative;
+	left: 435px;
+}
+button.podr {
+	position: relative;
+	background-color: #000;
+	background: -webkit-gradient(linear, left top, left bottom, from(#b3b3b3), to(#949494));
+	border: 1px solid #000;
+	border-bottom: 1px #000;
+	border-bottom: 1px #000;
+	border-radius: 3px;
+	box-shadow: inset 0 1px 0 0 #5c5c5c;
+	color: black;
+	font-weight: bold;
+	padding: 6px 20px;
+	text-align: center;
+	text-shadow: 0 -1px 0 #474747;
+	left: 50px;
+	margin-bottom: 5px;
+	margin-left: 250px;
+	bottom: 49px;
+}
+button.podr:hover {
+	opacity: .84;
+	cursor: pointer;
+}
+button.podr:active {
+	border: 1px solid #474747;
+	box-shadow: 0 0 10px 5px #474747 inset;
+}
+.novost {
+	background-color: #590000;
+	padding: 5px;
+	padding-left: 15px;
+}
