@@ -71,6 +71,21 @@ h3, p {
 	/* background-color: #990000; */
 	padding-left: 225px;
 }
+.text1 {
+	position: relative;
+	/* left: 230px; */
+	bottom: 130px;
+	/* background-color: #990000; */
+	padding-left: 225px;
+}
+.text2 {
+	position: relative;
+	/* left: 230px; */
+	bottom: 110px;
+	/* background-color: #990000; */
+	padding-left: 225px;
+	color: white;
+}
 .otstup {
 	background: #000;
 }
@@ -80,18 +95,18 @@ h3, p {
 #igr {
 	position: relative;
 	left: 170px;
-	bottom: 70px;
+	bottom: 75px;
 }
 #usl {
 	position: relative;
 	left: 340px;
-	top: -140px;
+	top: -153px;
 }
 #Copyright {
 	position: relative;
 	left: 435px;
 }
-button.podr {
+button.podr { /* <button class="podr">Подробнее</button> <-- это для html */
 	position: relative;
 	background-color: #000;
 	background: -webkit-gradient(linear, left top, left bottom, from(#b3b3b3), to(#949494));
@@ -122,4 +137,10 @@ button.podr:active {
 	background-color: #590000;
 	padding: 5px;
 	padding-left: 15px;
+}
+a.text1 {
+	color: white;
+}
+h2 {
+	color: white;
 }
