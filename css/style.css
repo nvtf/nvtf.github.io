@@ -198,3 +198,9 @@ h2 {
 	padding: 20px;
 	font-size: 10px;
 }
+#karty {
+	color: white;
+	position: relative;
+	bottom: 35px;
+	text-align: center;
+}
