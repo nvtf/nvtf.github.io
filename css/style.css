@@ -18,7 +18,7 @@ body {
 	padding: 15px;
 	font-size: 1em; 
 }
-button.submit {
+button.submit, .button1 {
 	position: relative;
 	background-color: #461cff;
 	background: -webkit-gradient(linear, left top, left bottom, from(#461cff), to(#3003fc));
@@ -98,6 +98,12 @@ h3, p {
 .knopka1 {
 	color: white;
 	font-size: 15px;
+	position: relative;
+}
+.button1 {
+	position: relative;
+	top: 40px;
+	left: -209px;
 }
 .otstup {
 	background: #000;
