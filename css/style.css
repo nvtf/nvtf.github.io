@@ -92,8 +92,12 @@ h3, p {
 	font-size: 25px;
 }
 .knopka {
-	font-size: 17px;
+	font-size: 15px;
 	color: white;
+}
+.knopka1 {
+	color: white;
+	font-size: 15px;
 }
 .otstup {
 	background: #000;
